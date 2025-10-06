@@ -1,1 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  background: #f9f9f9;
+}
+
+header {
+  background: #007acc;
+  color: white;
+  padding: 2rem 0;
+}
+
+.card {
+  background: white;
+  margin: 2rem auto;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 80%;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+button {
+  background: #007acc;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
 
